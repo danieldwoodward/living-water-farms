@@ -1,0 +1,82 @@
+#famfarm{
+    width:100%;
+    height: 100%;
+}
+
+
+#headerfooter{
+    background: green;
+    padding:1%;
+    margin:2%;
+}
+
+#navbar{
+    justify-content: space-between;
+    background: lightcoral;
+}
+
+#navcontent{
+    margin: 1%;
+    text-align: center; 
+}
+
+#ancher{
+    text-decoration: none;
+    color: azure;
+}
+
+html{
+    background: blanchedalmond;
+}
+
+#color{
+    background: blanchedalmond;
+}
+
+#p_style{
+    font-weight: 600;
+    line-height: 200%;
+}
+
+#ancher:hover {
+    color: yellow;
+  }
+
+#clickpicture{
+    border-radius: 50%;
+    width:80%;
+    height: 80%;
+}
+
+#clickpicture:hover{
+    width:83%;
+    height: 83%;
+}
+
+#wesellcard{
+    text-align: center;
+    border: 3px solid rgba(0, 255, 85, 0.288);
+    background-color: rgb(255, 192, 218);
+}
+
+#cursive{
+    font-family: "Sofia", sans-serif;
+    padding: 0 20%;
+}
+
+#diamond{
+    
+}
+
+span{
+    color: purple;
+}
+
+#quizcard{
+    border: 3px solid rgb(19, 151, 19);
+    border-radius: 10%;
+}
+
+button:hover{
+    border: 2px solid goldenrod;
+}
